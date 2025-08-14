@@ -5,6 +5,10 @@
     path = ArEyeses/tm-ultimate-medals-extended
     url = https://github.com/ArEyeses79/tm-ultimate-medals-extended
 
+[submodule "DreK/grinding-stats"]
+    path = DreK/grinding-stats
+    url = https://github.com/drekdrek/grinding-stats
+
 [submodule "Ezio/tm-autosave"]
     path = Ezio/tm-autosave
     url = https://github.com/ezio416/tm-autosave
