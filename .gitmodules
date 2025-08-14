@@ -1,3 +1,10 @@
+[submodule "ArEyeses/tm-half-medals"]
+    path = ArEyeses/tm-half-medals
+    url = https://github.com/ArEyeses79/tm-half-medals
+[submodule "ArEyeses/tm-ultimate-medals-extended"]
+    path = ArEyeses/tm-ultimate-medals-extended
+    url = https://github.com/ArEyeses79/tm-ultimate-medals-extended
+
 [submodule "Ezio/tm-autosave"]
     path = Ezio/tm-autosave
     url = https://github.com/ezio416/tm-autosave
