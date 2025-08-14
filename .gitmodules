@@ -1,150 +1,150 @@
-[submodule "Ezio/tm-copium"]
-	path = Ezio/tm-copium
-	url = https://github.com/ezio416/tm-copium
-[submodule "Ezio/tm-leaderboard-timestamps"]
-	path = Ezio/tm-leaderboard-timestamps
-	url = https://github.com/ezio416/tm-leaderboard-timestamps
-[submodule "Ezio/tm-warrior-medals"]
-	path = Ezio/tm-warrior-medals
-	url = https://github.com/ezio416/tm-warrior-medals
-[submodule "Ezio/tm-music-control"]
-	path = Ezio/tm-music-control
-	url = https://github.com/ezio416/tm-music-control
-[submodule "Ezio/tm-map-review-stats"]
-	path = Ezio/tm-map-review-stats
-	url = https://github.com/ezio416/tm-map-review-stats
-[submodule "Ezio/tm-more-icons"]
-	path = Ezio/tm-more-icons
-	url = https://github.com/ezio416/tm-more-icons
-[submodule "Ezio/tm-notepad-plus"]
-	path = Ezio/tm-notepad-plus
-	url = https://github.com/ezio416/tm-notepad-plus
-[submodule "Ezio/tm-plugin-template"]
-	path = Ezio/tm-plugin-template
-	url = https://github.com/ezio416/tm-plugin-template
-[submodule "Ezio/tm-pad-freecam"]
-	path = Ezio/tm-pad-freecam
-	url = https://github.com/ezio416/tm-pad-freecam
-[submodule "Ezio/tm-ez-toolbox"]
-	path = Ezio/tm-ez-toolbox
-	url = https://github.com/ezio416/tm-ez-toolbox
-[submodule "Ezio/tm-quieter"]
-	path = Ezio/tm-quieter
-	url = https://github.com/ezio416/tm-quieter
-[submodule "Ezio/tm-current-surfaces"]
-	path = Ezio/tm-current-surfaces
-	url = https://github.com/ezio416/tm-current-surfaces
-[submodule "Ezio/tm-fps-reducer"]
-	path = Ezio/tm-fps-reducer
-	url = https://github.com/ezio416/tm-fps-reducer
-[submodule "Ezio/tm-exit-map"]
-	path = Ezio/tm-exit-map
-	url = https://github.com/ezio416/tm-exit-map
-[submodule "Ezio/tm-current-effects"]
-	path = Ezio/tm-current-effects
-	url = https://github.com/ezio416/tm-current-effects
-[submodule "Ezio/tm-manialink-saver"]
-	path = Ezio/tm-manialink-saver
-	url = https://github.com/ezio416/tm-manialink-saver
-[submodule "Ezio/tm-cache-browser"]
-	path = Ezio/tm-cache-browser
-	url = https://github.com/ezio416/tm-cache-browser
-[submodule "Ezio/tm-map-history"]
-	path = Ezio/tm-map-history
-	url = https://github.com/ezio416/tm-map-history
-[submodule "Ezio/tm-best-in-class"]
-	path = Ezio/tm-best-in-class
-	url = https://github.com/ezio416/tm-best-in-class
 [submodule "Ezio/tm-autosave"]
-	path = Ezio/tm-autosave
-	url = https://github.com/ezio416/tm-autosave
-[submodule "Ezio/tm-turbo-opponent-selector"]
-	path = Ezio/tm-turbo-opponent-selector
-	url = https://github.com/ezio416/tm-turbo-opponent-selector
-[submodule "Ezio/tm-turbo-speedrun"]
-	path = Ezio/tm-turbo-speedrun
-	url = https://github.com/ezio416/tm-turbo-speedrun
-[submodule "Ezio/tm-turbo-map-selector"]
-	path = Ezio/tm-turbo-map-selector
-	url = https://github.com/ezio416/tm-turbo-map-selector
-[submodule "Ezio/tm-mod-disabler"]
-	path = Ezio/tm-mod-disabler
-	url = https://github.com/ezio416/tm-mod-disabler
-[submodule "Ezio/tm-interceptor"]
-	path = Ezio/tm-interceptor
-	url = https://github.com/ezio416/tm-interceptor
-[submodule "Ezio/tm-reloader"]
-	path = Ezio/tm-reloader
-	url = https://github.com/ezio416/tm-reloader
-[submodule "Ezio/tm-refresh-leaderboard"]
-	path = Ezio/tm-refresh-leaderboard
-	url = https://github.com/ezio416/tm-refresh-leaderboard
-[submodule "Ezio/tm-click-improve"]
-	path = Ezio/tm-click-improve
-	url = https://github.com/ezio416/tm-click-improve
-[submodule "Ezio/tm-campaign-completionist"]
-	path = Ezio/tm-campaign-completionist
-	url = https://github.com/ezio416/tm-campaign-completionist
-[submodule "Ezio/tm-default-movement"]
-	path = Ezio/tm-default-movement
-	url = https://github.com/ezio416/tm-default-movement
-[submodule "Ezio/tm-tmtracker"]
-	path = Ezio/tm-tmtracker
-	url = https://github.com/ezio416/tm-tmtracker
-[submodule "Ezio/tm-spectator-camera"]
-	path = Ezio/tm-spectator-camera
-	url = https://github.com/ezio416/tm-spectator-camera
-[submodule "Ezio/tm-school-indicator"]
-	path = Ezio/tm-school-indicator
-	url = https://github.com/ezio416/tm-school-indicator
-[submodule "Ezio/tm-club-manager"]
-	path = Ezio/tm-club-manager
-	url = https://github.com/ezio416/tm-club-manager
-[submodule "Ezio/tm-default-medals"]
-	path = Ezio/tm-default-medals
-	url = https://github.com/ezio416/tm-default-medals
+    path = Ezio/tm-autosave
+    url = https://github.com/ezio416/tm-autosave
 [submodule "Ezio/tm-backup"]
-	path = Ezio/tm-backup
-	url = https://github.com/ezio416/tm-backup
-[submodule "Ezio/tm-target-medal"]
-	path = Ezio/tm-target-medal
-	url = https://github.com/ezio416/tm-target-medal
+    path = Ezio/tm-backup
+    url = https://github.com/ezio416/tm-backup
+[submodule "Ezio/tm-best-in-class"]
+    path = Ezio/tm-best-in-class
+    url = https://github.com/ezio416/tm-best-in-class
 [submodule "Ezio/tm-block-swapper"]
-	path = Ezio/tm-block-swapper
-	url = https://github.com/ezio416/tm-block-swapper
-[submodule "Ezio/tm-plugin-profiles"]
-	path = Ezio/tm-plugin-profiles
-	url = https://github.com/ezio416/tm-plugin-profiles
-[submodule "Ezio/tm-maze-generator"]
-	path = Ezio/tm-maze-generator
-	url = https://github.com/ezio416/tm-maze-generator
-[submodule "Ezio/tm-music-muter"]
-	path = Ezio/tm-music-muter
-	url = https://github.com/ezio416/tm-music-muter
-[submodule "Ezio/tm-ghost-inputs"]
-	path = Ezio/tm-ghost-inputs
-	url = https://github.com/ezio416/tm-ghost-inputs
-[submodule "Ezio/tm-restart-disabler"]
-	path = Ezio/tm-restart-disabler
-	url = https://github.com/ezio416/tm-restart-disabler
-[submodule "Ezio/tm-too-many-clocks"]
-	path = Ezio/tm-too-many-clocks
-	url = https://github.com/ezio416/tm-too-many-clocks
-[submodule "Ezio/tm-random-favorites"]
-	path = Ezio/tm-random-favorites
-	url = https://github.com/ezio416/tm-random-favorites
-[submodule "Ezio/tm-join-a-friend"]
-	path = Ezio/tm-join-a-friend
-	url = https://github.com/ezio416/tm-join-a-friend
+    path = Ezio/tm-block-swapper
+    url = https://github.com/ezio416/tm-block-swapper
+[submodule "Ezio/tm-cache-browser"]
+    path = Ezio/tm-cache-browser
+    url = https://github.com/ezio416/tm-cache-browser
+[submodule "Ezio/tm-campaign-completionist"]
+    path = Ezio/tm-campaign-completionist
+    url = https://github.com/ezio416/tm-campaign-completionist
+[submodule "Ezio/tm-click-improve"]
+    path = Ezio/tm-click-improve
+    url = https://github.com/ezio416/tm-click-improve
+[submodule "Ezio/tm-club-manager"]
+    path = Ezio/tm-club-manager
+    url = https://github.com/ezio416/tm-club-manager
+[submodule "Ezio/tm-copium"]
+    path = Ezio/tm-copium
+    url = https://github.com/ezio416/tm-copium
+[submodule "Ezio/tm-current-effects"]
+    path = Ezio/tm-current-effects
+    url = https://github.com/ezio416/tm-current-effects
+[submodule "Ezio/tm-current-surfaces"]
+    path = Ezio/tm-current-surfaces
+    url = https://github.com/ezio416/tm-current-surfaces
+[submodule "Ezio/tm-default-medals"]
+    path = Ezio/tm-default-medals
+    url = https://github.com/ezio416/tm-default-medals
+[submodule "Ezio/tm-default-movement"]
+    path = Ezio/tm-default-movement
+    url = https://github.com/ezio416/tm-default-movement
 [submodule "Ezio/tm-download-map"]
-	path = Ezio/tm-download-map
-	url = https://github.com/ezio416/tm-download-map
-[submodule "Ezio/tm-hide-ranking"]
-	path = Ezio/tm-hide-ranking
-	url = https://github.com/ezio416/tm-hide-ranking
-[submodule "Ezio/tm-sequences"]
-	path = Ezio/tm-sequences
-	url = https://github.com/ezio416/tm-sequences
+    path = Ezio/tm-download-map
+    url = https://github.com/ezio416/tm-download-map
+[submodule "Ezio/tm-exit-map"]
+    path = Ezio/tm-exit-map
+    url = https://github.com/ezio416/tm-exit-map
+[submodule "Ezio/tm-ez-toolbox"]
+    path = Ezio/tm-ez-toolbox
+    url = https://github.com/ezio416/tm-ez-toolbox
 [submodule "Ezio/tm-freecam-speed-limiter"]
-	path = Ezio/tm-freecam-speed-limiter
-	url = https://github.com/ezio416/tm-freecam-speed-limiter
+    path = Ezio/tm-freecam-speed-limiter
+    url = https://github.com/ezio416/tm-freecam-speed-limiter
+[submodule "Ezio/tm-fps-reducer"]
+    path = Ezio/tm-fps-reducer
+    url = https://github.com/ezio416/tm-fps-reducer
+[submodule "Ezio/tm-ghost-inputs"]
+    path = Ezio/tm-ghost-inputs
+    url = https://github.com/ezio416/tm-ghost-inputs
+[submodule "Ezio/tm-hide-ranking"]
+    path = Ezio/tm-hide-ranking
+    url = https://github.com/ezio416/tm-hide-ranking
+[submodule "Ezio/tm-interceptor"]
+    path = Ezio/tm-interceptor
+    url = https://github.com/ezio416/tm-interceptor
+[submodule "Ezio/tm-join-a-friend"]
+    path = Ezio/tm-join-a-friend
+    url = https://github.com/ezio416/tm-join-a-friend
+[submodule "Ezio/tm-leaderboard-timestamps"]
+    path = Ezio/tm-leaderboard-timestamps
+    url = https://github.com/ezio416/tm-leaderboard-timestamps
+[submodule "Ezio/tm-manialink-saver"]
+    path = Ezio/tm-manialink-saver
+    url = https://github.com/ezio416/tm-manialink-saver
+[submodule "Ezio/tm-map-history"]
+    path = Ezio/tm-map-history
+    url = https://github.com/ezio416/tm-map-history
+[submodule "Ezio/tm-map-review-stats"]
+    path = Ezio/tm-map-review-stats
+    url = https://github.com/ezio416/tm-map-review-stats
+[submodule "Ezio/tm-maze-generator"]
+    path = Ezio/tm-maze-generator
+    url = https://github.com/ezio416/tm-maze-generator
+[submodule "Ezio/tm-mod-disabler"]
+    path = Ezio/tm-mod-disabler
+    url = https://github.com/ezio416/tm-mod-disabler
+[submodule "Ezio/tm-more-icons"]
+    path = Ezio/tm-more-icons
+    url = https://github.com/ezio416/tm-more-icons
+[submodule "Ezio/tm-music-control"]
+    path = Ezio/tm-music-control
+    url = https://github.com/ezio416/tm-music-control
+[submodule "Ezio/tm-music-muter"]
+    path = Ezio/tm-music-muter
+    url = https://github.com/ezio416/tm-music-muter
+[submodule "Ezio/tm-notepad-plus"]
+    path = Ezio/tm-notepad-plus
+    url = https://github.com/ezio416/tm-notepad-plus
+[submodule "Ezio/tm-pad-freecam"]
+    path = Ezio/tm-pad-freecam
+    url = https://github.com/ezio416/tm-pad-freecam
+[submodule "Ezio/tm-plugin-profiles"]
+    path = Ezio/tm-plugin-profiles
+    url = https://github.com/ezio416/tm-plugin-profiles
+[submodule "Ezio/tm-plugin-template"]
+    path = Ezio/tm-plugin-template
+    url = https://github.com/ezio416/tm-plugin-template
+[submodule "Ezio/tm-quieter"]
+    path = Ezio/tm-quieter
+    url = https://github.com/ezio416/tm-quieter
+[submodule "Ezio/tm-random-favorites"]
+    path = Ezio/tm-random-favorites
+    url = https://github.com/ezio416/tm-random-favorites
+[submodule "Ezio/tm-refresh-leaderboard"]
+    path = Ezio/tm-refresh-leaderboard
+    url = https://github.com/ezio416/tm-refresh-leaderboard
+[submodule "Ezio/tm-reloader"]
+    path = Ezio/tm-reloader
+    url = https://github.com/ezio416/tm-reloader
+[submodule "Ezio/tm-restart-disabler"]
+    path = Ezio/tm-restart-disabler
+    url = https://github.com/ezio416/tm-restart-disabler
+[submodule "Ezio/tm-school-indicator"]
+    path = Ezio/tm-school-indicator
+    url = https://github.com/ezio416/tm-school-indicator
+[submodule "Ezio/tm-sequences"]
+    path = Ezio/tm-sequences
+    url = https://github.com/ezio416/tm-sequences
+[submodule "Ezio/tm-spectator-camera"]
+    path = Ezio/tm-spectator-camera
+    url = https://github.com/ezio416/tm-spectator-camera
+[submodule "Ezio/tm-target-medal"]
+    path = Ezio/tm-target-medal
+    url = https://github.com/ezio416/tm-target-medal
+[submodule "Ezio/tm-tmtracker"]
+    path = Ezio/tm-tmtracker
+    url = https://github.com/ezio416/tm-tmtracker
+[submodule "Ezio/tm-too-many-clocks"]
+    path = Ezio/tm-too-many-clocks
+    url = https://github.com/ezio416/tm-too-many-clocks
+[submodule "Ezio/tm-turbo-map-selector"]
+    path = Ezio/tm-turbo-map-selector
+    url = https://github.com/ezio416/tm-turbo-map-selector
+[submodule "Ezio/tm-turbo-opponent-selector"]
+    path = Ezio/tm-turbo-opponent-selector
+    url = https://github.com/ezio416/tm-turbo-opponent-selector
+[submodule "Ezio/tm-turbo-speedrun"]
+    path = Ezio/tm-turbo-speedrun
+    url = https://github.com/ezio416/tm-turbo-speedrun
+[submodule "Ezio/tm-warrior-medals"]
+    path = Ezio/tm-warrior-medals
+    url = https://github.com/ezio416/tm-warrior-medals
