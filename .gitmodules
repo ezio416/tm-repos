@@ -1,3 +1,15 @@
 [submodule "Ezio/tm-copium"]
 	path = Ezio/tm-copium
 	url = https://github.com/ezio416/tm-copium
+[submodule "Ezio/tm-leaderboard-timestamps"]
+	path = Ezio/tm-leaderboard-timestamps
+	url = https://github.com/ezio416/tm-leaderboard-timestamps
+[submodule "Ezio/tm-warrior-medals"]
+	path = Ezio/tm-warrior-medals
+	url = https://github.com/ezio416/tm-warrior-medals
+[submodule "Ezio/tm-music-control"]
+	path = Ezio/tm-music-control
+	url = https://github.com/ezio416/tm-music-control
+[submodule "Ezio/tm-map-review-stats"]
+	path = Ezio/tm-map-review-stats
+	url = https://github.com/ezio416/tm-map-review-stats
